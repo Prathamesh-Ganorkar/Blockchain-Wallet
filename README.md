@@ -1,2 +1,2 @@
-# Blockchain-Wallet
-Blockchain Wallet
+# Student Management System
+Student Management System
